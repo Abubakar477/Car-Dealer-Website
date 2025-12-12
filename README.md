@@ -151,25 +151,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ---
 
-## 🖼️ Screenshots / Gallery
-
-> Add your project screenshots to the `screenshots/` folder and link them here. Examples:
-
-### **Home Page**
-
-![Home Page](<img width="1866" height="841" alt="Screenshot 2025-12-11 120553" src="https://github.com/user-attachments/assets/c198afc7-72dd-46db-a042-ba05bd2703de" />
-)
-
-### **Car Listings**
-
-![Car Listings](screenshots/cars.png)
-
-### **Car Detail Page**
-
-![Car Detail](screenshots/car_detail.png)
-
-
----
 
 ## 📬 Contact
 
